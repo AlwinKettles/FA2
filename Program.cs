@@ -11,6 +11,7 @@ namespace FA2Semester2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Minor changes");
             Console.Read();
         }
     }
